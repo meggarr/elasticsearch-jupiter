@@ -1,5 +1,5 @@
 FROM openjdk:8u131-jre
-MAINTAINER Richard Meng <rmeng@calix.com>
+MAINTAINER Richard Meng <mengar@qq.com>
 
 # grab gosu for easy step-down from root
 ENV GOSU_VERSION 1.10
